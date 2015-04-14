@@ -1,0 +1,24 @@
+-classpath
+'/media/Data/NeurophWorkspace/neurophTrunk/neuroph_git/neuroph-2.9/Core/target/classes:/home/zoran/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar:/home/zoran/.m2/repository/org/slf4j/slf4j-nop/1.7.6/slf4j-nop-1.7.6.jar:/home/zoran/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/media/Data/NeurophWorkspace/neurophTrunk/neuroph_git/neuroph-2.9/Core/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2014. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/media/Data/NeurophWorkspace/neurophTrunk/neuroph_git/neuroph-2.9/Core/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Core 2.9 API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' '/media/Data/NeurophWorkspace/neurophTrunk/neuroph_git/neuroph-2.9/Core/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Core 2.9 API'

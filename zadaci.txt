@@ -1,0 +1,13 @@
+Magdalina - onda jos da uradi ceo workflow za tablice
+- prepoznavanje tablica i brojeva na kucama
+
+1. Priprema podataka (formiranje datasetova)
+2. Preprocesiranje (grayscale i BINAAAAAAAARIZACIJA)
+        - ucita slike iz dataseta
+        - odradi definisani filter (filter chain u kome su grayscale ibinarizacija)
+        - snimi te slike u drugi folder
+3. Extrakcija (extrakcija karaktera, po razmaku(belom), ili neki algoritam za segmentaciju)
+    kao izlaz ovog koraka, napraviti dataset sa pojedinacnim slovima i brojevima za trening mreze
+4. Istrenirati mrezu - koristiti HSB model boja
+5. Testirati mrezu i izracunati mere tacnosti klasifikacije
+6. Uradti krosvalidaciju (K Fold) dok se ne dobije zeljeni nivo genralizacije i tacnosti na test setu

@@ -1,0 +1,24 @@
+/////////////////////////////////////////////////
+
+  NEUROPH - JAVA NEURAL NETWORK FRAMEWORK
+  http://neuroph.sourceforge.net
+
+/////////////////////////////////////////////////
+
+This is the 2.9 release of the Neuroph framework
+This release brings some new network types and algorithms, handy new tools for image recogniton and several bug fixes.
+
+New features on framework level:
+	KMeans Clustering
+	KNearestNeighbour 
+	Radial Basis Function Network (fully implemented learning in RF layer)
+	Convolution Neural Network support
+	Adapters for Weka and Java ML libraries
+
+New features in NeurophStudio:
+	Image preprocessing tool with set of image preprocessing filters
+	Image dataset tool (ease the creation of image variations - scale, rotate, translate images)
+	Training wizard - automates the MultiLayerPerceptron training process
+	Sample Data Set Generator wizard
+	Improved Mutilayer Perceptron Classification Sample
+	2D Visualization of neural network output and weights during the training
